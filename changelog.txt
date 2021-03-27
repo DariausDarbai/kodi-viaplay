@@ -1,3 +1,6 @@
+2021.03.27 v.2.1.2+lt
++ Add Lithuania country content
+
 2019.03.11 v.2.1.2
 + Fix channels listing on some subscriptions
 + Fix 'fallback' image is not always available

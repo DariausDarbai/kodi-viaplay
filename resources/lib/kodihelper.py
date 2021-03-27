@@ -55,6 +55,8 @@ class KodiHelper(object):
             country_code = 'dk'
         elif country_id == '2':
             country_code = 'no'
+        elif country_id == '4':
+            country_code = 'lt'
         else:
             country_code = 'fi'
 

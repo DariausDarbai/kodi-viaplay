@@ -57,6 +57,10 @@ msgctxt "#30011"
 msgid "viaplay.fi"
 msgstr ""
 
+msgctxt "#30062"
+msgid "viaplay.lt"
+msgstr ""
+
 msgctxt "#30012"
 msgid "Subtitles"
 msgstr ""

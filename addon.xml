@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.viaplay" version="2.1.2" name="Viaplay" provider-name="emilsvennesson">
+<addon id="plugin.video.viaplay" version="2.1.2+lt" name="Viaplay" provider-name="emilsvennesson,ziurim">
    <requires>
       <import addon="xbmc.python" version="3.0.0" />
       <import addon="script.module.requests" version="2.9.1" />
